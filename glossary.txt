@@ -1,0 +1,90 @@
+🔑 Certificate & PKI Terms
+CSR = Certificate Signing Request
+CRT = Certificate (often X.509 format)
+DER = Distinguished Encoding Rules (binary certificate format)
+PKI = Public Key Infrastructure
+OCSP = Online Certificate Status Protocol
+CRL = Certificate Revocation List
+
+🔐 Cryptography Algorithms & Standards
+ECC = Elliptic Curve Cryptography
+SHA = Secure Hash Algorithm
+HMAC = Hash‑based Message Authentication Code
+Diffie‑Hellman = Key exchange algorithm
+GCM = Galois/Counter Mode (AES encryption mode)
+
+🖥️ Sysadmin & Linux/Windows Tools
+CERTUTIL = Windows certificate utility
+MMC = Microsoft Management Console
+BASH = Bourne Again Shell
+PS = PowerShell
+LSB = Linux Standard Base
+
+🌐 Networking & Security Protocols
+HTTPS = HyperText Transfer Protocol Secure
+IPsec = Internet Protocol Security
+DNSSEC = Domain Name System Security Extensions
+SSH = Secure Shell
+SFTP = Secure File Transfer Protocol
+
+📂 File & Permission Concepts
+UID = User Identifier
+GID = Group Identifier
+FQDN = Fully Qualified Domain Name
+SELinux = Security‑Enhanced Linux
+AppArmor = Linux security module
+
+
+========== FULL LIST ==========
+
+PKI = Public Key Infrastructure
+X509 = ITU-T X.509 Certificate Standard
+CSR = Certificate Signing Request
+CRL = Certificate Revocation List
+OCSP = Online Certificate Status Protocol
+SAN = Subject Alternative Name
+CN = Common Name
+EKU = Extended Key Usage
+KU = Key Usage
+AIA = Authority Information Access
+CT = Certificate Transparency
+SCT = Signed Certificate Timestamp
+PKCS = Public-Key Cryptography Standards
+PKCS1 = RSA Cryptography Standard
+PKCS7 = Cryptographic Message Syntax
+PKCS8 = Private-Key Information Syntax
+PKCS10 = Certification Request Syntax
+PKCS12 = Personal Information Exchange (PFX)
+DER = Distinguished Encoding Rules (binary ASN.1)
+ASN1 = Abstract Syntax Notation One
+Base64 = ASCII Base-64 Encoding
+HSM = Hardware Security Module
+KMS = Key Management Service
+CSP = Cryptographic Service Provider
+KSP = Key Storage Provider (CNG)
+CNG = Cryptography Next Generation
+DPAPI = Data Protection API
+FIPS = Federal Information Processing Standards
+SHA256 = Secure Hash Algorithm 256-bit
+ECDSA = Elliptic Curve Digital Signature Algorithm
+ECC = Elliptic Curve Cryptography
+ED25519 = Edwards-curve Digital Signature Algorithm (Ed25519)
+HMAC = Hash-based Message Authentication Code
+SNI = Server Name Indication
+ALPN = Application-Layer Protocol Negotiation
+mTLS = Mutual Transport Layer Security
+FQDN = Fully Qualified Domain Name
+NTP = Network Time Protocol
+MMC = Microsoft Management Console
+CERTLM = Local Machine Certificates (certlm.msc)
+CERTMGR = Current User Certificates (certmgr.msc)
+IIS = Internet Information Services
+OpenSSL = Open-source SSL/TLS toolkit
+BASH = Bourne Again SHell
+SSH = Secure Shell
+SCP = Secure Copy Protocol
+SFTP = SSH File Transfer Protocol
+GPO = Group Policy Object
+OU = Organizational Unit
+DC = Domain Controller
+DNSSEC = Domain Name System Security Extensions
